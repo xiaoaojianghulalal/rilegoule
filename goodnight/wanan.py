@@ -4,3 +4,5 @@ haoxiaoxi = ''
 
 confict = 'finsh'
 
+branch = 1
+
