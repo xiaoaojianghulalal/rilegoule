@@ -4,3 +4,5 @@ haoxiaoxi = ''
 
 branch = 'two'
 
+num2 = 20
+
